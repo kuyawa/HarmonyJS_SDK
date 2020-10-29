@@ -2,7 +2,7 @@ Github: [https://github.com/harmony-one/sdk](https://github.com/harmony-one/sdk)
 
 # HarmonyJS SDK
 
-Harmony JS SDK is a javascript library that provides an easy way to interact with Harmony's blockchain.
+HarmonyJS SDK is a javascript library that provides an easy way to interact with Harmony's blockchain.
 
 This library contains a few packages:
 
