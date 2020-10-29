@@ -1,0 +1,21 @@
+{
+  "name": "Harmony Docs",
+  "version": "1.0.0",
+  "description": "Harmony Docs",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "14.4.0"
+  },
+  "dependencies": {
+    "@harmony-js/core": "^0.1.54",
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "Harmony"
+  ]
+}
