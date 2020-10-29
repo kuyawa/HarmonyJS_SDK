@@ -15,7 +15,7 @@ This library contains a few packages:
 - @harmony-js/transaction
 - @harmony-js/utils
 
-## Instalation
+## Installation
 
 Here be dragons...
 
@@ -38,6 +38,6 @@ console.log('privkey ', act.privateKey)       // Private key to sign transaction
 console.log('mnemonic', nem)                  // Mnemonic to recreate account
 ```
 
-More dragons here, beware...
+More fierce dragons here, beware...
 
 `To be continued`
