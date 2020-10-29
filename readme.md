@@ -45,7 +45,7 @@ Now save this program as account.js and run it to generate ONE addresses:
 This is the result, a Harmony account for your use (do not share the private key):
 
 ```
-$ node samples/account.js
+$ node account.js
 account  one1em2uj8rr7k8z3wyfdm3jmyxt855425880jt6er
 address  0xced5c91c63f58e28b8896ee32d90cb3d295550e7
 pubkey   0x0272ff742cc7903072a2a09554cda836fdf5b97c3caedd0c7eb0c4e8b58b7f7cc5
