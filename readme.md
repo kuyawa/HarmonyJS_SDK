@@ -33,10 +33,14 @@ let mnm = hmy.wallet.newMnemonic()            // Generates new mnemonic
 let act = hmy.wallet.addByMnemonic(mnm)       // Adds account to wallet
 console.log('account ', act.bech32Address)    // ONE address
 console.log('address ', act.address)          // Hex ethereum like address
-console.log('pubkey  ', act.publicKey)        // Public key to receive assets
+console.log('pubkey  ', act.publicKey)        // Public key
 console.log('privkey ', act.privateKey)       // Private key to sign transactions
 console.log('mnemonic', mnm)                  // Mnemonic to recreate account
 ```
+
+Now save this program as account.js and run it to generate ONE addresses:
+
+`$ node account.js`
 
 More fierce dragons here, beware...
 
