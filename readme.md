@@ -19,6 +19,28 @@ This library contains a few packages:
 
 Here be dragons...
 
+
+## What do you want to learn?
+- How to use as wallet developer
+- How to use as Dapp developer
+- How to integrate in exchange
+
+
+### How to use as wallet developer
+
+As a wallet developer you will be able to:
+
+- generate addresses
+- store private keys and mnemonic phrases
+- import and export keys
+- get balance from address
+- get tx history
+- add tokens
+- send tokens
+- change networks
+- connect wallet to dapps
+
+
 ## Accounts
 
 The first thing you want to do is create an account to send and receive ONE as the native asset in the network:
