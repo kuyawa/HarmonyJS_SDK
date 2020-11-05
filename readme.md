@@ -40,6 +40,7 @@ As a wallet developer you will be able to:
 - change networks
 - connect wallet to dapps
 
+Dragons on the loose...
 
 ## Accounts
 
